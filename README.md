@@ -1,4 +1,3 @@
-# Cozy Corner
 
 ![Cozy Corner Logo](/assets/Cozy%20Corner-vo-o5K8E.svg)
 
