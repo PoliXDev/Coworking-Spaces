@@ -4,7 +4,7 @@
 
 A modern and inviting coworking space website, designed to showcase a comfortable and professional work environment.
 
-https://polixdev.github.io/coworking-space/
+[https://polixdev.github.io/coworking-space/](https://polixdev.github.io/Coworking-Spaces/)
 
 ## Description
 
