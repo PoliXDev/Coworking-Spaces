@@ -1,4 +1,4 @@
-./Cozy Corner - Co-working Space.png
+./Cozy_Corner_-_Co-working_Space.png
 ![Cozy Corner Logo](/assets/Cozy%20Corner-vo-o5K8E.svg)
 
 A modern and inviting coworking space website, designed to showcase a comfortable and professional work environment.
