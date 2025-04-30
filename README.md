@@ -1,4 +1,4 @@
-[capture](/coworking.png)
+![capture](./coworking.png)
 
 ![Cozy Corner Logo](/assets/Cozy%20Corner-vo-o5K8E.svg)
 
